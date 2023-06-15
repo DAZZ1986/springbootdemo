@@ -13,11 +13,10 @@ public class User {
     private Long id;
 
     @Column(name = "first_name")
-    private String firstName;
+    private String firstNameAAA;
+
     @Column(name = "last_name")
-    private String lastName;
-
-
+    private String lastNameDDD;
 
 
 }
